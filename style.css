@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+p {
+    color: white;
+    border-color: white;
+    border: white;
+    font-family: Arial;
+    font-size: 35px;
+}
+.akens {
+    position: absolute;
+    border-radius: 50%;
+    background-size: 100%;
+    top: 30%;
+    left: 43%;
+    padding bottom: 30px;
+}
+.yes {
+    font-size: 30px;
+    padding-left:30px;
+    padding-right: 30px;
+    margin-left: 10px;
+}
+.no {
+    font-size: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 40px;
+}
+.k {
+    left: 100%;
+}
